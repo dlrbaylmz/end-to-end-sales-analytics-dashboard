@@ -48,8 +48,6 @@ This dashboard enables stakeholders to:
 
 ##  Dashboard Preview
 
-<img width="1388" height="520" alt="Ekran Resmi 2026-03-27 18 38 56" src="https://github.com/user-attachments/assets/8eb1f30a-da00-490e-9910-65a9c897d273" />
+<img width="1376" height="524" alt="Ekran Resmi 2026-03-27 18 44 54" src="https://github.com/user-attachments/assets/857f9e44-8997-495e-9ea1-7afbd4f9b69c" />
 
-<img width="1370" height="525" alt="Ekran Resmi 2026-03-27 18 45 21" src="https://github.com/user-attachments/assets/c89d444b-00e2-43a7-91d4-042723599a3e" />
-
-
+<img width="1370" height="525" alt="Ekran Resmi 2026-03-27 18 45 21" src="https://github.com/user-attachments/assets/3a2d02c0-666e-41b1-b8bf-9b7e7599418f" />
