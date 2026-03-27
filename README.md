@@ -2,40 +2,54 @@
 
 ##  Project Overview
 
-This project demonstrates an end-to-end sales data analysis process using Microsoft Excel. It includes data preparation, analysis, visualization, and dashboard creation.
+This project demonstrates a complete end-to-end sales data analysis workflow using Microsoft Excel. It covers data preparation, transformation, analysis, and the development of an interactive dashboard to support business decision-making.
 
-##  Tools Used
+##  Tools & Techniques
 
 * Microsoft Excel (Web)
-* Pivot Tables
-* Data Visualization
+* Pivot Tables & Pivot Charts
+* KPI Design (Total Sales, Profit, Profit Margin, Orders)
+* Data Cleaning & Transformation
+* Feature Engineering
+* Interactive Dashboard Design
 
 ##  Process
 
-* Data cleaning and preparation
-* Feature creation (Month-Year, Profit Status)
-* Sales and profit analysis
-* Dashboard design and visualization
+* Cleaned and structured raw sales data
+* Created new features such as **Month-Year** and **Profit Status**
+* Performed exploratory data analysis using Pivot Tables
+* Built multiple analytical views (time series, category, geography)
+* Designed a user-friendly and interactive dashboard
 
-##  Key Features
+##  Dashboard Components
 
-* Sales trend over time
-* Category and sub-category performance
-* Profitability analysis
-* City-level sales insights
-* Interactive slicers for filtering
+* **KPI Cards:** Total Sales, Total Profit, Profit Margin, Total Orders
+* **Sales Trend Analysis:** Monthly performance visualization
+* **Category Analysis:** Sales distribution across categories
+* **Profitability Analysis:** Sub-category level profit insights
+* **Geographical Analysis:** City-based sales performance
+* **Slicers:** Category, Region, Segment filters for interactivity
 
 ##  Key Insights
 
-* Technology category drives the highest sales
-* Some sub-categories generate negative profit
-* Sales varies significantly across cities
-* High sales does not always mean high profitability
+* Technology category drives the highest overall sales performance
+* Some sub-categories generate losses despite strong sales
+* Sales performance varies significantly across different cities
+* High sales volume does not always translate into high profitability
+
+##  Business Value
+
+This dashboard enables stakeholders to:
+
+* Monitor sales performance over time
+* Identify high-performing and underperforming categories
+* Detect loss-making products
+* Make data-driven business decisions
 
 ##  Dashboard Preview
 
 <img width="1388" height="520" alt="Ekran Resmi 2026-03-27 18 38 56" src="https://github.com/user-attachments/assets/8eb1f30a-da00-490e-9910-65a9c897d273" />
-<img width="1376" height="524" alt="Ekran Resmi 2026-03-27 18 44 54" src="https://github.com/user-attachments/assets/0d82086e-19f9-4ecf-ad68-f24df1cc95a9" />
+
 <img width="1370" height="525" alt="Ekran Resmi 2026-03-27 18 45 21" src="https://github.com/user-attachments/assets/c89d444b-00e2-43a7-91d4-042723599a3e" />
 
 
